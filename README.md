@@ -1,20 +1,26 @@
-# Hear the Book
+# Play the Book
 
-A playable table of contents for Hal Leonard's *100 Most Beautiful Songs Ever for Fingerstyle Ukulele* (ISBN 9781495099304).
+**[Open the library](https://playthebook.stringfestanalytics.com/)** · **[Make your own](https://playthebook.stringfestanalytics.com/make-your-own.html)**
 
-**[Open the listening companion](https://stringfestdata.github.io/hear-the-book/)** · **[Make your own](https://stringfestdata.github.io/hear-the-book/make-your-own.html)**
+A growing library of playable tables of contents. The first and currently only book is Hal Leonard's *100 Most Beautiful Songs Ever for Fingerstyle Ukulele* (ISBN 9781495099304). [Open its listening companion](https://playthebook.stringfestanalytics.com/book.html?book=100-beautiful-ukulele).
 
-Search the 100 songs by title, artist, or page; compare reference recordings and ukulele performances; save a local practice set; and play a listening queue. Practice notes live only in your browser; use the backup controls to transfer them.
+Search by title, artist, or page, compare recordings, and build a listening queue. **Reference recording** means an independently selected performance, generally by the TOC's credited artist. It is not publisher audio or necessarily the original. Earlier/original selections include sources; instrument performances may use different arrangements. Direct links remain available if a player fails.
 
-The **Book recording** label means the artist credited by the TOC, not necessarily the song's first recording. **Earlier / original** entries include source notes. Ukulele performances may use different arrangements. Videos can change availability; use the adjacent YouTube and search links when needed. The plain-text listening list is also available in `listening-links.txt`.
+Optional saved songs and notes stay in your browser. Use the book page's backup controls to transfer them. A backup from the original Hear the Book site remains compatible with this ukulele book, but browser storage does not automatically follow a new domain.
 
 ## Use the skill
 
-Download `playable-toc-skill.zip`, or copy `skill/playable-toc/SKILL.md` into an assistant's supported skill location. The make-your-own page has a copy-ready prompt for assistants without skills. No particular assistant, instrument, or host is required.
+Download playable-toc-skill.zip or copy skill/playable-toc/SKILL.md into your assistant's supported skill location. The make-your-own page includes a copy-ready prompt. No particular assistant, instrument, or hosting service is required.
 
-## Run or update the site
+## Run or add a book
 
-This is a buildless static website. Serve this directory with any static web server. `songs.js` contains the catalog and sources. GitHub Pages serves the `main` branch root. Add or correct recordings there, preserving IDs because practice notes use them. Keep the adjacent direct links and version qualifications.
+This is a buildless static site. Serve this directory with any static web server; GitHub Pages uses the main branch root. The CNAME file sets the public domain.
 
-Independent listening companion by George Mount / Stringfest Analytics. Not affiliated with Hal Leonard or the recording artists. No notation, tablature, lyrics, or audio files are distributed. The official Stringfest logo is included intact; third-party media remains hosted by its source.
+books.js is the library manifest. Each entry has a stable ID, title/edition metadata, publisher link, instrument, dataFile, and unique storageKey. Add a new book's verified catalog as a separate JavaScript file assigning window.SONGS, using songs.js as the schema example. Add its manifest entry; the shared book.html page loads it through ?book=THE-ID. Keep song IDs stable because notes use them. Recording kind ukulele is the legacy internal name for the instrument-performance category; the visible label follows the book's instrument. Never reuse another book's storageKey.
+
+The existing songs.js and listening-links.txt belong only to the ukulele book. Old #song-pNN links redirect to its book page. Preserve direct source links and version qualifications when updating recordings.
+
+Independent listening companion by George Mount / Stringfest Analytics. Not affiliated with Hal Leonard or the artists. No notation, tablature, lyrics, or audio files are distributed. The official Stringfest logo is included intact.
+
+Google Analytics uses the existing Stringfest GA4 measurement ID G-HYN5W1BYX5. It runs only on the production hostname; local previews are excluded. No practice-note text is sent to analytics.
 

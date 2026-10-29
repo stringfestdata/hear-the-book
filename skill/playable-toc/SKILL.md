@@ -17,7 +17,7 @@ Photographs identify the book; they are not a request to republish its pages. Ke
 
 Use web search or connected music sources. Disambiguate by title plus performer, composer, show, or film. A familiar song title alone is insufficient (for example, there are several songs called "The Power of Love").
 
-For each entry, prioritize a recording by the artist named in the book. Label it **Book recording** or **Reference recording**, not automatically **Original**. If a different earlier/original recording is useful and supportable, include it separately with a concise source-backed note. Distinguish earliest recording, first release, first stage performance, later hit, and alternate-language versions. For standards, classical repertoire, or traditional music, use an identified reference performance when a single original would be misleading. If the book says "various artists," name the performer you actually select and explain that it is one interpretation.
+For each entry, prioritize a recording by the artist named in the book. Label it **Reference recording**, not automatically **Original**. Explain that this is an independently selected recording, not publisher-supplied audio. If a different earlier/original recording is useful and supportable, include it separately with a concise source-backed note. Distinguish earliest recording, first release, first stage performance, later hit, and alternate-language versions. For standards, classical repertoire, or traditional music, use an identified reference performance when a single original would be misleading. If the book says "various artists," name the performer you actually select and explain that it is one interpretation.
 
 Then look for one or two useful versions on the learner's instrument. Prefer solo/fingerstyle performances for a solo fingerstyle book; label vocal/strummed covers, tutorials, medleys, ensemble versions, and excerpts. Don't imply a performance uses the book's exact arrangement, tuning, or difficulty without evidence. Exact matches are welcome but not required.
 
@@ -30,10 +30,10 @@ Verify title and performer on the source page or through accessible public metad
 Use the format requested, or the simplest useful format the environment supports:
 
 - A clickable table in chat or a document: page, title, book credit, reference link, instrument link, short qualification where needed.
-- An interactive page: searchable titles/artists/page numbers, separate version choices, responsive player, direct links, and readable empty states. Load players only when requested. Avoid loading a hundred iframes at once.
+- An interactive page: searchable titles/artists/page numbers, separate version choices, responsive player, direct links, and readable empty states. Load only the selected song's player, with visible native controls and no autoplay. Avoid loading a hundred iframes at once.
 - A listening queue: select one appropriate recording per entry, retain a sensible order, and disclose omissions. A browser queue or list of URLs is not a saved playlist in the user's account. Create an account playlist only when authorized and supported, then return its verified URL.
 
-Useful optional features include saved practice selections, a heard marker, and short notes. Explain where these are stored; local browser data does not sync automatically. Include an export/backup when persistence matters. Keep technical setup out of the musician's path unless they need it.
+Keep each book clearly identified. If the site contains multiple books, give each one a separate catalog and notes store. Useful optional features include saved practice selections, a heard marker, and short notes; keep them secondary to listening. Explain where these are stored; local browser data does not sync automatically. Include an export/backup when persistence matters. Keep technical setup out of the musician's path unless they need it.
 
 For a shareable result, retain the underlying song/link data in a simple portable format. Keep production logs, screenshots, and testing files separate from the reader download. Publish only to a destination the user requested or approved; do not create an account or choose public hosting merely because a website was possible.
 
