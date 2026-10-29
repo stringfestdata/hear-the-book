@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A playable table of contents for 100 Most Beautiful Songs Ever for Fingerstyle Ukulele. Find a song, hear the recording, and explore a ukulele interpretation.">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Hear the Book · A playable ukulele TOC</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="songs.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#catalog">Skip to the songs</a>
+<header class="masthead wrap"><a href="./" aria-label="Hear the Book home"><img src="logo.png" alt="Stringfest Analytics" width="230"></a><nav aria-label="Main navigation"><a href="#catalog">The songs</a><a href="make-your-own.html">Make your own</a><a href="https://github.com/stringfestdata/hear-the-book">Source &amp; corrections</a></nav></header>
+<main class="wrap">
+  <section class="intro">
+    <div><p class="eyebrow">A PLAYABLE TABLE OF CONTENTS</p><h1>Hear the book.</h1><p class="lede">A song title on a page is one thing.<br>Hearing it come to life is another.</p><p class="intro-copy">A listening companion to <em>100 Most Beautiful Songs Ever for Fingerstyle Ukulele</em>. Find your page, get the tune in your ear, then pick up your uke.</p></div>
+    <aside class="book-note"><span class="big-number">100</span><span class="book-note-label">songs to get to know</span><p>Start with the recording named in the book. Compare an earlier original or a ukulele interpretation where one is linked.</p><a href="https://www.halleonard.com/product/239978/100-most-beautiful-songs-ever-for-fingerstyle-ukulele" target="_blank" rel="noopener">About the Hal Leonard songbook</a></aside>
+  </section>
+  <section id="catalog" aria-labelledby="catalog-title">
+    <div class="section-top"><div><p class="eyebrow">YOUR LISTENING DESK</p><h2 id="catalog-title">What are you playing?</h2></div><p id="coverage" class="muted"></p></div>
+    <div class="toolbar"><div class="search-field"><label for="search">Find a song, artist, or page</label><input id="search" type="search" placeholder="Try Hallelujah, Beatles, or 86" autocomplete="off"></div><div><label for="filter">Show</label><select id="filter"><option value="all">All songs</option><option value="ukulele">With ukulele videos</option><option value="saved">My practice set</option><option value="unheard">Not marked heard</option></select></div><div><label for="sort">Order</label><select id="sort"><option value="toc">Printed TOC</option><option value="page">Page number</option><option value="title">Title A-Z</option></select></div></div>
+    <div class="desk">
+      <div class="catalog-pane"><div class="list-top"><span id="results" role="status" aria-live="polite"></span><button id="surprise" class="text-button">Pick one for me</button></div><div id="song-list" class="song-list" aria-label="Songs"></div><p class="small muted">The printed TOC is alphabetical in places where the page order is not. Page numbers come from the photographed book.</p></div>
+      <section id="listening-pane" class="listening-pane" aria-label="Selected song" tabindex="-1"><div id="song-detail"></div></section>
+    </div>
+  </section>
+  <section class="queue-section" aria-labelledby="queue-title"><div><p class="eyebrow">LET IT PLAY</p><h2 id="queue-title">Make a little listening session.</h2><p>Play the current song list in order, or filter to your practice set first. Each queue uses one recording per song.</p></div><div class="queue-actions"><button id="queue-reference" class="primary">Queue book recordings</button><button id="queue-ukulele" class="secondary">Queue ukulele versions</button><button id="export-links" class="text-button">Download current listening links</button></div><p class="small muted queue-footnote">Queues play here through YouTube; they are not saved playlists in your YouTube account. Playback and availability depend on YouTube and your region.</p></section>
+  <details class="about"><summary>About the recordings, your practice set, and this project</summary><div class="about-grid"><div><h3>Which version am I hearing?</h3><p><strong>Book recording</strong> means the artist named in the printed TOC. <strong>Earlier / original</strong> identifies an earlier version when research supports it; it does not imply that every first performance has been traced. <strong>Ukulele version</strong> is a separate performance or lesson, not a promise that it matches this book's arrangement.</p><p>Videos were researched on October 28, 2026. Titles and performers were checked against search results and video metadata where accessible. Embedding and playback can change. Every video has a direct YouTube link and every song has a fresh search link.</p></div><div><h3>A listening companion</h3><p>This independent project links recordings; it does not reproduce the book's music, tablature, or lyrics. It is not affiliated with Hal Leonard or the recording artists.</p><p>Your practice set, heard marks, and notes stay in this browser on this device. They do not sync between devices. Download a backup if you want to keep them.</p><div class="backup-actions"><button id="backup" class="secondary">Back up my practice data</button><label class="file-label" for="restore">Restore backup</label><input id="restore" type="file" accept="application/json,.json"></div><p id="storage-message" class="small" role="status"></p></div></div></details>
+  <section class="make-banner"><h2>Have a different book on your music stand?</h2><p>Photograph the contents page and turn it into your own listening companion. No GitHub account required.</p><a class="primary" href="make-your-own.html">Get the prompt &amp; reusable skill</a></section>
+</main>
+<footer class="wrap"><span>Made by George Mount · Stringfest Analytics</span><a href="https://github.com/stringfestdata/hear-the-book/issues/new" target="_blank" rel="noopener">Suggest a recording or report a broken link</a></footer>
+<noscript><p class="wrap">This listening desk needs JavaScript. You can also download <a href="listening-links.txt">the plain-text listening list</a>.</p></noscript>
+<div id="toast" role="status" aria-live="polite"></div>
+</body></html>
+
