@@ -41,14 +41,18 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Jordan D. White",
         "title": "Against All Odds - ukulele Phil Collins cover",
         "url": "https://www.youtube.com/watch?v=PZw3I2xZC3I",
         "channel": "Jordan D. White",
         "evidenceUrl": "https://www.youtube.com/watch?v=PZw3I2xZC3I",
         "verification": "metadata-confirmed",
-        "note": "Ukulele cover; not verified as the book's fingerstyle arrangement."
+        "note": "Ukulele cover; not verified as the book's fingerstyle arrangement.",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -74,7 +78,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "All By Myself (Eric Carmen, Celine Dion) [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=EUFXJ8VFSho",
@@ -84,7 +88,11 @@ window.SONGS = [
         "note": "Linked by the performer's fingerstyle song index; not verified as the book's arrangement.",
         "metadataTitle": "All By Myself (Eric Carmen, Celine Dion) [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTimeYuji",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -133,7 +141,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "MUJ",
         "title": "And I Love You So - Don McLean, Perry Como (ukulele tutorial by MUJ)",
         "url": "https://www.youtube.com/watch?v=JpHbAKwAPFg",
@@ -143,7 +151,11 @@ window.SONGS = [
         "note": "Ukulele tutorial with fingerstyle sections.",
         "metadataTitle": "And I Love You So - Don McLean, Perry Como (ukulele tutorial by MUJ)",
         "channelUrl": "https://www.youtube.com/@MorristownUkeJam",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -169,7 +181,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Eureka! Uke",
         "title": "【Angel】 Sarah McLachlan - Easy Fingerstyle Ukulele Tutorial & Play Along, EASY key, Chords & Lyrics",
         "url": "https://www.youtube.com/watch?v=gcBAWPv-XRs",
@@ -179,7 +191,11 @@ window.SONGS = [
         "note": "Fingerstyle accompaniment tutorial; not a confirmed solo melody arrangement.",
         "metadataTitle": "【Angel】 Sarah McLachlan - Easy Fingerstyle Ukulele Tutorial & Play Along, EASY key, Chords & Lyrics",
         "channelUrl": "https://www.youtube.com/@eurekauke9246",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -205,7 +221,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Matt Dahlberg",
         "title": "Learn the BEAUTIFUL fingerstyle chords of \"Annie's Song\" for Ukulele",
         "url": "https://www.youtube.com/watch?v=26FK_8mwqqs",
@@ -215,7 +231,11 @@ window.SONGS = [
         "note": "Demonstration at 0:00, followed by a tutorial.",
         "metadataTitle": "Learn the BEAUTIFUL fingerstyle chords of \"Annie's Song\" for Ukulele",
         "channelUrl": "https://www.youtube.com/@MattDahlberg",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -264,7 +284,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Damon's Baritone Uke Joint",
         "title": "BEST OF MY LOVE Baritone Ukulele Lesson THE EAGLES w/ Tab (Fingerstyle w/ Melody)",
         "url": "https://www.youtube.com/watch?v=ffycY1vZltY",
@@ -274,7 +294,11 @@ window.SONGS = [
         "note": "Baritone ukulele; melody woven into chords. Tuning differs from standard GCEA ukulele.",
         "metadataTitle": "BEST OF MY LOVE Baritone Ukulele Lesson THE EAGLES w/ Tab (Fingerstyle w/ Melody)",
         "channelUrl": "https://www.youtube.com/@DamonsBaritoneUkeJoint",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -341,7 +365,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Natasha Ghosh | Learn Guitar & Ukulele Lessons",
         "title": "How To Play Can't Help Falling In Love (Fingerstyle Ukulele Tutorial)",
         "url": "https://www.youtube.com/watch?v=uFLK6R97Nzg",
@@ -351,7 +375,11 @@ window.SONGS = [
         "note": "Fingerstyle ukulele tutorial; not verified as the book's arrangement.",
         "metadataTitle": "How To Play Can't Help Falling In Love (Fingerstyle Ukulele Tutorial)",
         "channelUrl": "https://www.youtube.com/@NatashaGhoshMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -377,7 +405,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lara Markowitz",
         "title": "3 Beautiful Ways To Play Candle In The Wind on Ukulele (Elton John), Easy Strumming to Fingerpicking",
         "url": "https://www.youtube.com/watch?v=KRD76K_DCXQ",
@@ -387,7 +415,11 @@ window.SONGS = [
         "note": "Strumming and fingerpicking lesson; not verified as the book's arrangement.",
         "metadataTitle": "3 Beautiful Ways To Play Candle In The Wind on Ukulele (Elton John), Easy Strumming to Fingerpicking",
         "channelUrl": "https://www.youtube.com/@LaraMarkowitzMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -413,7 +445,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "lagaringer",
         "title": "Cherish - Ukulele Cover (The Association)",
         "url": "https://www.youtube.com/watch?v=PoIW-ZyhVKI",
@@ -423,7 +455,11 @@ window.SONGS = [
         "note": "Vocal cover with tenor ukulele accompaniment.",
         "metadataTitle": "Cherish - Ukulele Cover (The Association)",
         "channelUrl": "https://www.youtube.com/@lagaringer",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -462,7 +498,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lara Markowitz",
         "title": "Close To You (The Carpenters) - Ukulele Fingerstyle Cover",
         "url": "https://www.youtube.com/watch?v=ifHnLl2Xf9k",
@@ -472,7 +508,11 @@ window.SONGS = [
         "note": "Independent fingerstyle arrangement.",
         "metadataTitle": "Close To You (The Carpenters) - Ukulele Fingerstyle Cover",
         "channelUrl": "https://www.youtube.com/@LaraMarkowitzMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Richard Chamberlain released the song in 1963, before the Carpenters' 1970 hit.",
@@ -585,7 +625,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Sunny String",
         "title": "Don't Know Why - Ukulele Fingerstyle (+TAB)",
         "url": "https://www.youtube.com/watch?v=62TrzWW1H1U",
@@ -595,7 +635,11 @@ window.SONGS = [
         "note": "Low-G ukulele; arranged by Sunny String.",
         "metadataTitle": "Don't Know Why - Ukulele Fingerstyle (+TAB)",
         "channelUrl": "https://www.youtube.com/@Sunny_String",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Jesse Harris' recording appeared in 1999, before Norah Jones' version.",
@@ -626,7 +670,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "Don't Let The Sun Go Down On Me (Elton John) [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=kowbU-_OUY0",
@@ -636,7 +680,11 @@ window.SONGS = [
         "note": "Linked by the performer's fingerstyle song index.",
         "metadataTitle": "Don't Let The Sun Go Down On Me (Elton John) [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTimeYuji",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -685,7 +733,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "One Music School",
         "title": "Faithfully - Journey Ukulele Tutorial with Fingerpicking and Play Along",
         "url": "https://www.youtube.com/watch?v=ATP4gs1PvFs",
@@ -695,7 +743,11 @@ window.SONGS = [
         "note": "Katie DeNure's fingerpicking tutorial and play-along.",
         "metadataTitle": "Faithfully - Journey Ukulele Tutorial with Fingerpicking and Play Along",
         "channelUrl": "https://www.youtube.com/@OneMusicSchool",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -749,7 +801,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "Feelings (Morris Albert) [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=UT0FSCbuREc",
@@ -759,7 +811,11 @@ window.SONGS = [
         "note": "Low-G ukulele arrangement.",
         "metadataTitle": "Feelings (Morris Albert) [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTime39",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -905,14 +961,18 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Al Wood",
         "title": "God Only Knows (Beach Boys Ukulele Cover)",
         "url": "https://www.youtube.com/watch?v=fXRyTZvsxSY",
         "channel": "Al Wood",
         "evidenceUrl": "https://www.youtube.com/watch?v=fXRyTZvsxSY",
         "verification": "metadata-confirmed",
-        "note": "Independent ukulele arrangement by Al Wood (Ukulele Hunt); not verified as the book's arrangement."
+        "note": "Independent ukulele arrangement by Al Wood (Ukulele Hunt); not verified as the book's arrangement.",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -951,7 +1011,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "Hallelujah - Ukulele Fingerpicking Tutorial (Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=V5DlYE_scIc",
@@ -961,10 +1021,14 @@ window.SONGS = [
         "note": "Fingerstyle ukulele tutorial.",
         "metadataTitle": "Hallelujah - Ukulele Fingerpicking Tutorial (Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Richard Hefner",
         "title": "Hallelujah - Fingerstyle Ukulele with Chords & Lyrics",
         "url": "https://www.youtube.com/watch?v=uSFp_F050Uc",
@@ -974,7 +1038,11 @@ window.SONGS = [
         "note": "Vocal performance with fingerstyle accompaniment; pattern explained after the song.",
         "metadataTitle": "Hallelujah - Fingerstyle Ukulele with Chords & Lyrics",
         "channelUrl": "https://www.youtube.com/@RichardHefner",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Leonard Cohen's 1984 recording predates Jeff Buckley's interpretation.",
@@ -1005,7 +1073,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "David DiMuzio Lessons",
         "title": "\"Have A Little Faith In Me\" - UKULELE CHORDS Lesson",
         "url": "https://www.youtube.com/watch?v=iMcR_gKc9kw",
@@ -1015,7 +1083,11 @@ window.SONGS = [
         "note": "Chord progression lesson, not a solo fingerstyle arrangement.",
         "metadataTitle": "\"Have A Little Faith In Me\" - UKULELE CHORDS Lesson",
         "channelUrl": "https://www.youtube.com/@daviddimuziolessons",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1092,7 +1164,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "SpicyUke",
         "title": "HELLO (Lionel Richie) Ukulele fingerstyle cover",
         "url": "https://www.youtube.com/watch?v=1lFsWs66irM",
@@ -1102,7 +1174,11 @@ window.SONGS = [
         "note": "Independent fingerstyle cover.",
         "metadataTitle": "HELLO (Lionel Richie) Ukulele fingerstyle cover",
         "channelUrl": "https://www.youtube.com/@SpicyUke",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1128,7 +1204,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "The Beatles - Here There And Everywhere (Ukulele Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=mFCRqAgL-uk",
@@ -1138,7 +1214,11 @@ window.SONGS = [
         "note": "Independent fingerstyle arrangement.",
         "metadataTitle": "The Beatles - Here There And Everywhere (Ukulele Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1164,7 +1244,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "lagaringer",
         "title": "HERO - My Ukulele Interpretation (A Mariah Carey song)",
         "url": "https://www.youtube.com/watch?v=ERJJLi-EbLg",
@@ -1174,7 +1254,11 @@ window.SONGS = [
         "note": "Baritone ukulele interpretation. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "HERO - My Ukulele Interpretation (A Mariah Carey song)",
         "channelUrl": "https://www.youtube.com/@lagaringer",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1200,7 +1284,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lara Markowitz",
         "title": "How Deep Is Your Love (Bee Gees) ❤️ Ukulele Fingerstyle Cover",
         "url": "https://www.youtube.com/watch?v=c-LwxdqaNZ4",
@@ -1210,7 +1294,11 @@ window.SONGS = [
         "note": "Solo fingerstyle arrangement. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "How Deep Is Your Love (Bee Gees) ❤️ Ukulele Fingerstyle Cover",
         "channelUrl": "https://www.youtube.com/@LaraMarkowitzMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1236,7 +1324,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "UkuleleOrchestra",
         "title": "The Ukulele Orchestra of Great Britain - I Believe I Can Fly",
         "url": "https://www.youtube.com/watch?v=dgnDKUrdPIo",
@@ -1246,7 +1334,11 @@ window.SONGS = [
         "note": "Ukulele ensemble performance, live in 2014. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "The Ukulele Orchestra of Great Britain - I Believe I Can Fly",
         "channelUrl": "https://www.youtube.com/@UkuleleOrchestra",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1272,7 +1364,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "I Hope You Dance (Lee Ann Womack) [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=z-nsYnbHUrA",
@@ -1282,7 +1374,11 @@ window.SONGS = [
         "note": "Low-G fingerstyle arrangement. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I Hope You Dance (Lee Ann Womack) [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTime39",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1308,7 +1404,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time Yuji",
         "title": "I Say A Little Prayer (Aretha Franklin)  [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=JLggo7VO-kY",
@@ -1318,7 +1414,11 @@ window.SONGS = [
         "note": "Based on the Aretha Franklin interpretation. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I Say A Little Prayer (Aretha Franklin)  [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTimeYuji",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1344,7 +1444,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Bernadette Teaches Music",
         "title": "I Will Always Love You EASY Ukulele Tutorial with Strumming & Fingerpicking",
         "url": "https://www.youtube.com/watch?v=gDOp_lM1wUk",
@@ -1354,7 +1454,11 @@ window.SONGS = [
         "note": "Strumming and fingerpicking tutorial. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I Will Always Love You EASY Ukulele Tutorial with Strumming & Fingerpicking",
         "channelUrl": "https://www.youtube.com/@BernadetteTeachesMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1380,7 +1484,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Stephanie Douglass",
         "title": "I Will Remember You - Easy Baritone Ukulele Tutorial with 3 Chords and Fingerstyle (Sarah McLachlan)",
         "url": "https://www.youtube.com/watch?v=zK36DYaZG1A",
@@ -1390,7 +1494,11 @@ window.SONGS = [
         "note": "Baritone ukulele; play-along begins at 13:13. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I Will Remember You - Easy Baritone Ukulele Tutorial with 3 Chords and Fingerstyle (Sarah McLachlan)",
         "channelUrl": "https://www.youtube.com/@StephanieDouglassMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1441,7 +1549,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "GAZZLELE",
         "title": "The Jackson 5 - I'll Be There  (Ukulele Cover w/Chords)",
         "url": "https://www.youtube.com/watch?v=GeqGFVkt_lY",
@@ -1451,7 +1559,11 @@ window.SONGS = [
         "note": "Vocal and ukulele cover. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "The Jackson 5 - I'll Be There  (Ukulele Cover w/Chords)",
         "channelUrl": "https://www.youtube.com/@gazzlele",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1477,7 +1589,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lara Markowitz",
         "title": "I'll Follow The Sun (The Beatles) - EASY Ukulele Fingerstyle Tabs & Tutorial",
         "url": "https://www.youtube.com/watch?v=FVckOwnVbZs",
@@ -1487,7 +1599,11 @@ window.SONGS = [
         "note": "Demo begins at 0:00, followed by tutorial. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I'll Follow The Sun (The Beatles) - EASY Ukulele Fingerstyle Tabs & Tutorial",
         "channelUrl": "https://www.youtube.com/@LaraMarkowitzMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1513,7 +1629,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Gracie Terzian",
         "title": "I'll Have To Say I Love You In A Song - Jim Croce Ukulele Tutorial",
         "url": "https://www.youtube.com/watch?v=HeuljrXYyG0",
@@ -1523,7 +1639,11 @@ window.SONGS = [
         "note": "Chord-based ukulele tutorial. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "I'll Have To Say I Love You In A Song - Jim Croce Ukulele Tutorial",
         "channelUrl": "https://www.youtube.com/@GracieTerzian",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1549,7 +1669,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "If (Bread) - Beginner [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=m55_WhiuWoc",
@@ -1559,7 +1679,11 @@ window.SONGS = [
         "note": "Low-G solo fingerstyle arrangement. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "If (Bread) - Beginner [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTime39",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1585,7 +1709,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Miss Oli",
         "title": "If You Leave Me Now - Chicago (Ukulele Play Along)",
         "url": "https://www.youtube.com/watch?v=xFl7qKyTN0Y",
@@ -1595,7 +1719,11 @@ window.SONGS = [
         "note": "Strummed play-along, rather than a solo fingerstyle arrangement. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "If You Leave Me Now - Chicago (Ukulele Play Along)",
         "channelUrl": "https://www.youtube.com/@bolive88",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1621,7 +1749,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Todd Lorenc Music",
         "title": "It Must Have Been Love, Ukulele",
         "url": "https://www.youtube.com/watch?v=wFs0_6tFnrA",
@@ -1631,7 +1759,11 @@ window.SONGS = [
         "note": "Ukulele performance; creator metadata should be checked. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "It Must Have Been Love, Ukulele",
         "channelUrl": "https://www.youtube.com/@ToddLorencmusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1713,7 +1845,7 @@ window.SONGS = [
         "note": "First released by Lori Lieberman in 1972; archival upload."
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "Killing Me Softly (Ukulele Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=Oeix8eOplQg",
@@ -1723,7 +1855,11 @@ window.SONGS = [
         "note": "Solo fingerstyle arrangement. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Killing Me Softly (Ukulele Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Lori Lieberman recorded the song before Roberta Flack made it a hit.",
@@ -1754,7 +1890,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "The Uke Revolution",
         "title": "LADY IN RED UKULELE Cover Play Along Tab",
         "url": "https://www.youtube.com/watch?v=iTDFdycbcz4",
@@ -1764,7 +1900,11 @@ window.SONGS = [
         "note": "Ukulele cover and play-along. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "LADY IN RED UKULELE Cover Play Along Tab",
         "channelUrl": "https://www.youtube.com/@BrookePalmer",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1831,7 +1971,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Learn ukulele with Matt",
         "title": "The Long and Winding Road Ukulele Tutorial – Fingerstyle Beatles Song",
         "url": "https://www.youtube.com/watch?v=mfj8_KpQ6Ls",
@@ -1841,7 +1981,11 @@ window.SONGS = [
         "note": "Fingerstyle chord-melody lesson. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "The Long and Winding Road Ukulele Tutorial – Fingerstyle Beatles Song",
         "channelUrl": "https://www.youtube.com/@mattsteadukulele",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1867,7 +2011,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Sing Love Strum",
         "title": "Lover you should’ve come over by Jeff Buckley, with simple chords,  ukulele cover",
         "url": "https://www.youtube.com/watch?v=_KGPyns-xVE",
@@ -1877,7 +2021,11 @@ window.SONGS = [
         "note": "Vocal and ukulele cover. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Lover you should’ve come over by Jeff Buckley, with simple chords,  ukulele cover",
         "channelUrl": "https://www.youtube.com/@singlovestrum",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1903,7 +2051,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "Michael Jackson - The Man In The Mirror (Ukulele Tutorial)",
         "url": "https://www.youtube.com/watch?v=uLNb4MxsVhA",
@@ -1913,7 +2061,11 @@ window.SONGS = [
         "note": "Chords and fingerpicked introduction. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Michael Jackson - The Man In The Mirror (Ukulele Tutorial)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -1952,7 +2104,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Music Teacher Videos",
         "title": "Memory from  Cats    Ukulele Play Along   Chord Guide",
         "url": "https://www.youtube.com/watch?v=hck9NDSdlVw",
@@ -1962,7 +2114,11 @@ window.SONGS = [
         "note": "Chord guide and play-along. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Memory from  Cats    Ukulele Play Along   Chord Guide",
         "channelUrl": "https://www.youtube.com/@MusicTeacherVideos",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The book names Barbra Streisand. Elaine Paige sang Grizabella in the original London cast of Cats, recorded in 1981.",
@@ -2006,7 +2162,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Cynthia Lin",
         "title": "Moon River // Ukulele Fingerpicking Tutorial",
         "url": "https://www.youtube.com/watch?v=VLYMogQqV3Q",
@@ -2016,7 +2172,11 @@ window.SONGS = [
         "note": "Fingerpicked accompaniment and vocals. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Moon River // Ukulele Fingerpicking Tutorial",
         "channelUrl": "https://www.youtube.com/@cynthialinmusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Written for Breakfast at Tiffany's and sung in the film by Audrey Hepburn; the book names Andy Williams.",
@@ -2047,7 +2207,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Uke Society",
         "title": "More (Mondo Cane) | Ukulele cover & play-along | Level: Advanced",
         "url": "https://www.youtube.com/watch?v=C6WC844dCKE",
@@ -2057,7 +2217,11 @@ window.SONGS = [
         "note": "Performed by David Liu. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "More (Mondo Cane) | Ukulele cover & play-along | Level: Advanced",
         "channelUrl": "https://www.youtube.com/@UkeSociety",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The melody began in the 1962 film Mondo Cane; Kai Winding's 1963 instrumental is the version named in the book.",
@@ -2088,7 +2252,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lara Markowitz",
         "title": "Morning Has Broken (Cat Stevens) - EASY Ukulele Fingerstyle Arrangement, Tabs & Tutorial",
         "url": "https://www.youtube.com/watch?v=HNqLSIMgnZ4",
@@ -2098,7 +2262,11 @@ window.SONGS = [
         "note": "Solo arrangement; demo begins at 0:24. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Morning Has Broken (Cat Stevens) - EASY Ukulele Fingerstyle Arrangement, Tabs & Tutorial",
         "channelUrl": "https://www.youtube.com/@LaraMarkowitzMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Cat Stevens adapted an existing hymn with words by Eleanor Farjeon; this is his well-known pop arrangement.",
@@ -2129,7 +2297,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "MeesterDavidGitaar",
         "title": "My Funny Valentine (Ukulele fingerstyle tutorial)",
         "url": "https://www.youtube.com/watch?v=eRoZqlSVjNE",
@@ -2139,7 +2307,11 @@ window.SONGS = [
         "note": "Arranged by David van Ooijen for high-G ukulele. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "My Funny Valentine (Ukulele fingerstyle tutorial)",
         "channelUrl": "https://www.youtube.com/@MeesterDavidGitaar",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The book names various artists. Ella Fitzgerald is a reference interpretation, not identified here as the first recording.",
@@ -2165,7 +2337,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Paul Mansell",
         "title": "Nuages by Django Reinhardt on Ukulele with Free Tab",
         "url": "https://www.youtube.com/watch?v=FDfhh3_TTIM",
@@ -2175,7 +2347,11 @@ window.SONGS = [
         "note": "Solo ukulele arrangement by Paul Mansell. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Nuages by Django Reinhardt on Ukulele with Free Tab",
         "channelUrl": "https://www.youtube.com/@PaulMansellukulele",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2224,7 +2400,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Morristown Uke Jam",
         "title": "Only You (and you alone) - The Platters (ukulele tutorial by MUJ)",
         "url": "https://www.youtube.com/watch?v=GAjCtMVGYqc",
@@ -2234,7 +2410,11 @@ window.SONGS = [
         "note": "Performed and taught on ukulele. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Only You (and you alone) - The Platters (ukulele tutorial by MUJ)",
         "channelUrl": "https://www.youtube.com/@MorristownUkeJam",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2260,7 +2440,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "uke mullum",
         "title": "Somewhere Over the Rainbow // Fingerstyle Ukulele",
         "url": "https://www.youtube.com/watch?v=I_FGKmXtK2w",
@@ -2270,7 +2450,11 @@ window.SONGS = [
         "note": "Low-G solo ukulele arrangement by Stukulele. This is not verified as the arrangement printed in the book.",
         "metadataTitle": "Somewhere Over the Rainbow // Fingerstyle Ukulele",
         "channelUrl": "https://www.youtube.com/@ukemullum",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2378,14 +2562,18 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "ukulenny",
         "title": "Stevie Wonder - Ribbon in the Sky (Ukulele Instrumental)",
         "url": "https://www.youtube.com/watch?v=QqY-IIvuqT4",
         "channel": "ukulenny",
         "evidenceUrl": "https://www.youtube.com/watch?v=QqY-IIvuqT4",
         "verification": "metadata-confirmed",
-        "note": "Ukulele instrumental arrangement. Public YouTube oEmbed metadata verified on October 28, 2026."
+        "note": "Ukulele instrumental arrangement. Public YouTube oEmbed metadata verified on October 28, 2026.",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2411,7 +2599,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Time",
         "title": "Sailing (Christopher Cross) [Ukulele Fingerstyle] Play-Along with TABs",
         "url": "https://www.youtube.com/watch?v=k8JOyUGIBYw",
@@ -2421,7 +2609,11 @@ window.SONGS = [
         "note": "Low-G fingerstyle arrangement. Creator notes videos may later move to Patreon.",
         "metadataTitle": "Sailing (Christopher Cross) [Ukulele Fingerstyle] Play-Along with TABs",
         "channelUrl": "https://www.youtube.com/@UkuleleTime39",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2447,7 +2639,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "The Uke Revolution",
         "title": "SAVE THE BEST FOR LAST - UKULELE CHORDS / PLAY ALONG / SONG SHEET - VANESSA WILLIAMS",
         "url": "https://www.youtube.com/watch?v=MhNG-WG5ndA",
@@ -2457,7 +2649,11 @@ window.SONGS = [
         "note": "Strummed play-along; performance starts at 0:33.",
         "metadataTitle": "SAVE THE BEST FOR LAST - UKULELE CHORDS / PLAY ALONG / SONG SHEET - VANESSA WILLIAMS",
         "channelUrl": "https://www.youtube.com/@BrookePalmer",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2496,7 +2692,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Nick",
         "title": "Smoke Gets In Your Eyes - jazz fingerstyle ukulele tutorial (with TABS)",
         "url": "https://www.youtube.com/watch?v=lBnNGho1Dfw",
@@ -2506,7 +2702,11 @@ window.SONGS = [
         "note": "Jazz chord melody arrangement and performance.",
         "metadataTitle": "Smoke Gets In Your Eyes - jazz fingerstyle ukulele tutorial (with TABS)",
         "channelUrl": "https://www.youtube.com/@ukulelenick",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Written for Roberta (1933). Gertrude Niesen recorded it in 1933, long before The Platters' version.",
@@ -2537,7 +2737,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lydia Walker",
         "title": "Surprise Singing Telegram for Valentine's Day! Ukulele cover of \"Someone Like You\" by Van Morrison",
         "url": "https://www.youtube.com/watch?v=1sSDtgV37hs",
@@ -2547,7 +2747,11 @@ window.SONGS = [
         "note": "Sung ukulele cover in a surprise singing telegram.",
         "metadataTitle": "Surprise Singing Telegram for Valentine's Day! Ukulele cover of \"Someone Like You\" by Van Morrison",
         "channelUrl": "https://www.youtube.com/@LydiaWalker",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2614,7 +2818,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Mollee Craven",
         "title": "Spanish Eyes by Mollee, Nick & Ray - Steel Drum and Ukulele and Cajon.avi",
         "url": "https://www.youtube.com/watch?v=lqeAf-DqE3I",
@@ -2624,7 +2828,11 @@ window.SONGS = [
         "note": "Ensemble: Nick Moore on ukulele, with steel pan and cajon.",
         "metadataTitle": "Spanish Eyes by Mollee, Nick & Ray - Steel Drum and Ukulele and Cajon.avi",
         "channelUrl": "https://www.youtube.com/@MolleeCraven",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The melody began as Bert Kaempfert's instrumental Moon Over Naples; the book names Al Martino's vocal version.",
@@ -2668,7 +2876,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "rgolden2",
         "title": "Stardust by Hoagy Carmichael arranged for baritone ukulele",
         "url": "https://www.youtube.com/watch?v=0f45CcbgKJ4",
@@ -2678,7 +2886,11 @@ window.SONGS = [
         "note": "Baritone ukulele arrangement; different tuning from a standard soprano/tenor ukulele.",
         "metadataTitle": "Stardust by Hoagy Carmichael arranged for baritone ukulele",
         "channelUrl": "https://www.youtube.com/@rgolden2",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Hoagy Carmichael first recorded Stardust as an instrumental in 1927; Nat King Cole is the book's later reference recording.",
@@ -2709,7 +2921,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Guitar Tabs GT",
         "title": "Strangers In The Night - Frank Sinatra Ukulele Tutorial, Ukulele Tabs (Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=zIL9KVO9arw",
@@ -2719,7 +2931,11 @@ window.SONGS = [
         "note": "Ukulele fingerstyle tutorial.",
         "metadataTitle": "Strangers In The Night - Frank Sinatra Ukulele Tutorial, Ukulele Tabs (Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@guitartabsgt654",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2745,7 +2961,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "Bobby Hebb - Sunny (Ukulele Fingerstyle) - Short Version",
         "url": "https://www.youtube.com/watch?v=kLfLzINMZqc",
@@ -2755,7 +2971,11 @@ window.SONGS = [
         "note": "Short fingerstyle arrangement.",
         "metadataTitle": "Bobby Hebb - Sunny (Ukulele Fingerstyle) - Short Version",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2781,7 +3001,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "Eric Clapton - Tears In Heaven (Ukulele Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=-8l6_TfU-zE",
@@ -2791,7 +3011,11 @@ window.SONGS = [
         "note": "Low-G fingerstyle arrangement in D.",
         "metadataTitle": "Eric Clapton - Tears In Heaven (Ukulele Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2845,7 +3069,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Lei Requejo",
         "title": "Through the Years Ukulele Fingerstyle",
         "url": "https://www.youtube.com/watch?v=aEL2PI3S33o",
@@ -2855,7 +3079,11 @@ window.SONGS = [
         "note": "Solo ukulele fingerstyle performance.",
         "metadataTitle": "Through the Years Ukulele Fingerstyle",
         "channelUrl": "https://www.youtube.com/@leirequejo",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2894,7 +3122,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Cheats",
         "title": "The Beatles - Till There Was You (Ukulele Fingerstyle)",
         "url": "https://www.youtube.com/watch?v=j2xRl8b6O8A",
@@ -2904,7 +3132,11 @@ window.SONGS = [
         "note": "Solo ukulele fingerstyle arrangement.",
         "metadataTitle": "The Beatles - Till There Was You (Ukulele Fingerstyle)",
         "channelUrl": "https://www.youtube.com/@UkuleleCheats",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The Beatles recorded this Music Man song in 1963. The earlier 1950 version, Till I Met You, had a slightly different title and lyric.",
@@ -2935,7 +3167,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Cynthia Lin",
         "title": "Time After Time (Cyndi Lauper cover) // Cynthia Lin Ukulele Play-Along",
         "url": "https://www.youtube.com/watch?v=0yZoyPoRpts",
@@ -2945,7 +3177,11 @@ window.SONGS = [
         "note": "Sung ukulele cover/play-along.",
         "metadataTitle": "Time After Time (Cyndi Lauper cover) // Cynthia Lin Ukulele Play-Along",
         "channelUrl": "https://www.youtube.com/@cynthialinmusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -2971,7 +3207,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Smile Off Music",
         "title": "A Time For Us - Andy Williams ( Ukulele Fingerstyle by OFF )",
         "url": "https://www.youtube.com/watch?v=BCYDSQKjJxI",
@@ -2981,7 +3217,11 @@ window.SONGS = [
         "note": "Solo ukulele fingerstyle performance.",
         "metadataTitle": "A Time For Us - Andy Williams ( Ukulele Fingerstyle by OFF )",
         "channelUrl": "https://www.youtube.com/@tanahihi",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3020,7 +3260,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Corner",
         "title": "Con Te Partirò (Time to Say Goodbye) for Fingerstyle Ukulele",
         "url": "https://www.youtube.com/watch?v=SlbyHh2gcxU",
@@ -3030,7 +3270,11 @@ window.SONGS = [
         "note": "Jeff Peterson performs his own fingerstyle arrangement.",
         "metadataTitle": "Con Te Partirò (Time to Say Goodbye) for Fingerstyle Ukulele",
         "channelUrl": "https://www.youtube.com/@UkuleleCorner",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Andrea Bocelli recorded Con Te Partiro in 1995; the Sarah Brightman/Andrea Bocelli duet followed as Time to Say Goodbye.",
@@ -3061,7 +3305,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ben's Uke Tutes & Road Trips",
         "title": "Challenge Yourself: UP WHERE WE BELONG - ukulele Tutorial with awesome chords",
         "url": "https://www.youtube.com/watch?v=sqNSuX1W4uk",
@@ -3071,7 +3315,11 @@ window.SONGS = [
         "note": "Ukulele accompaniment tutorial.",
         "metadataTitle": "Challenge Yourself: UP WHERE WE BELONG - ukulele Tutorial with awesome chords",
         "channelUrl": "https://www.youtube.com/@BensUkeTutes",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3120,7 +3368,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "MeesterDavidGitaar",
         "title": "What A Wonderful World (Ukulele fingerstyle tutorial)",
         "url": "https://www.youtube.com/watch?v=WV1u2NL1vn0",
@@ -3130,7 +3378,11 @@ window.SONGS = [
         "note": "David van Ooijen's 2023 ukulele arrangement.",
         "metadataTitle": "What A Wonderful World (Ukulele fingerstyle tutorial)",
         "channelUrl": "https://www.youtube.com/@MeesterDavidGitaar",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3156,7 +3408,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Morristown Uke Jam",
         "title": "What About Love - Heart (a REQUESTED ukulele tutorial by MUJ)",
         "url": "https://www.youtube.com/watch?v=usQv4LVMH14",
@@ -3166,7 +3418,11 @@ window.SONGS = [
         "note": "Marco D. performs and teaches ukulele accompaniment.",
         "metadataTitle": "What About Love - Heart (a REQUESTED ukulele tutorial by MUJ)",
         "channelUrl": "https://www.youtube.com/@MorristownUkeJam",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3192,7 +3448,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Renee Dominique",
         "title": "What The World Needs Now (Is Love Sweet Love) ukulele cover | Reneé Dominique",
         "url": "https://www.youtube.com/watch?v=6rESLZLgfJ8",
@@ -3202,7 +3458,11 @@ window.SONGS = [
         "note": "Sung ukulele cover.",
         "metadataTitle": "What The World Needs Now (Is Love Sweet Love) ukulele cover | Reneé Dominique",
         "channelUrl": "https://www.youtube.com/@Rene%C3%A9Dominique",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3241,7 +3501,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ukulele Wizard",
         "title": "When I Need You Fingerstyle Ukulele Tutorial With Tab",
         "url": "https://www.youtube.com/watch?v=zkF6dy2E6YY",
@@ -3251,7 +3511,11 @@ window.SONGS = [
         "note": "Fingerstyle arrangement/tutorial.",
         "metadataTitle": "When I Need You Fingerstyle Ukulele Tutorial With Tab",
         "channelUrl": "https://www.youtube.com/@ukulelewizard6392",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Albert Hammond's 1976 recording precedes the Leo Sayer hit named in the book.",
@@ -3318,7 +3582,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "MK Fingerstyle Academy",
         "title": "A Whole New World - Aladdin | Disney Ukulele Fingerstyle TAB || Grade 4",
         "url": "https://www.youtube.com/watch?v=oT_KKuUD8Nw",
@@ -3328,7 +3592,11 @@ window.SONGS = [
         "note": "Mustafa Kamaliddin's fingerstyle arrangement.",
         "metadataTitle": "A Whole New World - Aladdin | Disney Ukulele Fingerstyle TAB || Grade 4",
         "channelUrl": "https://www.youtube.com/@MKFingerstyleAcademy",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "The book names the Peabo Bryson/Regina Belle pop duet. Brad Kane and Lea Salonga sing the song in the original Aladdin film.",
@@ -3359,7 +3627,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Morristown Uke Jam",
         "title": "Woman - John Lennon (ukulele tutorial by MUJ)",
         "url": "https://www.youtube.com/watch?v=SDzxcUAr9sE",
@@ -3369,7 +3637,11 @@ window.SONGS = [
         "note": "Ukulele tutorial.",
         "metadataTitle": "Woman - John Lennon (ukulele tutorial by MUJ)",
         "channelUrl": "https://www.youtube.com/@MorristownUkeJam",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3395,7 +3667,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Helmut Bickel",
         "title": "Fingerstyle Ukulele Lesson #11: YOU ARE NOT ALONE (Michael Jackson)",
         "url": "https://www.youtube.com/watch?v=OduIKsaEszw",
@@ -3405,7 +3677,11 @@ window.SONGS = [
         "note": "Solo fingerstyle arrangement/tutorial.",
         "metadataTitle": "Fingerstyle Ukulele Lesson #11: YOU ARE NOT ALONE (Michael Jackson)",
         "channelUrl": "https://www.youtube.com/@helmutbickel",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3444,7 +3720,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Steven Laity",
         "title": "You Are So Beautiful - Ukulele Fingerstyle Cover",
         "url": "https://www.youtube.com/watch?v=bE83BTh5Nzo",
@@ -3454,7 +3730,11 @@ window.SONGS = [
         "note": "Performance of an arrangement credited to WS64.",
         "metadataTitle": "You Are So Beautiful - Ukulele Fingerstyle Cover",
         "channelUrl": "https://www.youtube.com/@StevenLaityMusic",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Billy Preston first released the song in 1974; Joe Cocker's recording is the book's reference.",
@@ -3580,14 +3860,18 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Helmut Bickel",
         "title": "Fingerstyle UKULELE Lesson # 207: YOU RAISE ME UP",
         "url": "https://www.youtube.com/watch?v=DG0kp-pCga0",
         "channel": "Helmut Bickel",
         "evidenceUrl": "https://www.youtube.com/watch?v=DG0kp-pCga0",
         "verification": "metadata-confirmed",
-        "note": "Solo fingerstyle arrangement/tutorial. Public YouTube oEmbed metadata verified on October 28, 2026."
+        "note": "Solo fingerstyle arrangement/tutorial. Public YouTube oEmbed metadata verified on October 28, 2026.",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "Secret Garden recorded the song with Brian Kennedy before Josh Groban's 2003 recording.",
@@ -3618,7 +3902,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "Ricky Somborn",
         "title": "YOU'RE STILL THE ONE - Shania Twain (Ukulele Play Along with Chords and Lyrics)",
         "url": "https://www.youtube.com/watch?v=nUEK3f3ggO8",
@@ -3628,7 +3912,11 @@ window.SONGS = [
         "note": "Sung, strummed ukulele cover/play-along.",
         "metadataTitle": "YOU'RE STILL THE ONE - Shania Twain (Ukulele Play Along with Chords and Lyrics)",
         "channelUrl": "https://www.youtube.com/@rickysomborn",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",
@@ -3654,7 +3942,7 @@ window.SONGS = [
         "checkedDate": "2026-10-28"
       },
       {
-        "kind": "ukulele",
+        "kind": "instrument",
         "artist": "C Kology",
         "title": "🕶 You're the Inspiration Chicago Ukulele Easy Tutorial Play A Long with Chords",
         "url": "https://www.youtube.com/watch?v=Wdx2OTSgO6A",
@@ -3664,7 +3952,11 @@ window.SONGS = [
         "note": "Strummed ukulele tutorial; play-along starts at 2:20.",
         "metadataTitle": "🕶 You're the Inspiration Chicago Ukulele Easy Tutorial Play A Long with Chords",
         "channelUrl": "https://www.youtube.com/@CKology",
-        "checkedDate": "2026-10-28"
+        "checkedDate": "2026-10-28",
+        "instruments": [
+          "Ukulele"
+        ],
+        "arrangementMatch": "not-verified"
       }
     ],
     "historyNote": "",

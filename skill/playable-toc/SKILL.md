@@ -13,13 +13,17 @@ Use the cover to identify the exact title, instrument, edition, and publisher wh
 
 Photographs identify the book; they are not a request to republish its pages. Keep notation, tablature, and lyrics out of the listening guide unless the user has requested a separately permitted use. An independent guide normally needs bibliographic identification and a publisher link, not scans of the book.
 
+## Identify the instrument or ensemble
+
+Use the cover, edition details, and user's request to identify the target instrument(s). Do not default to ukulele. For an ensemble or mixed-instrument collection, determine whether the user wants the full ensemble, specific parts, or both. Ask one focused question only if this cannot be inferred. Keep book-level target instruments separate from the instruments actually heard in each recording. Label solo, accompanied, ensemble, vocal, and lesson versions accurately.
+
 ## Find the right recordings
 
 Use web search or connected music sources. Disambiguate by title plus performer, composer, show, or film. A familiar song title alone is insufficient (for example, there are several songs called "The Power of Love").
 
 For each entry, prioritize a recording by the artist named in the book. Label it **Reference recording**, not automatically **Original**. Explain that this is an independently selected recording, not publisher-supplied audio. If a different earlier/original recording is useful and supportable, include it separately with a concise source-backed note. Distinguish earliest recording, first release, first stage performance, later hit, and alternate-language versions. For standards, classical repertoire, or traditional music, use an identified reference performance when a single original would be misleading. If the book says "various artists," name the performer you actually select and explain that it is one interpretation.
 
-Then look for one or two useful versions on the learner's instrument. Prefer solo/fingerstyle performances for a solo fingerstyle book; label vocal/strummed covers, tutorials, medleys, ensemble versions, and excerpts. Don't imply a performance uses the book's exact arrangement, tuning, or difficulty without evidence. Exact matches are welcome but not required.
+Then look for one or two useful versions on the learner's instrument. Prefer solo/fingerstyle performances for a solo fingerstyle book; label vocal/strummed covers, tutorials, medleys, ensemble versions, and excerpts. Don't imply a performance uses the book's exact arrangement, tuning, or difficulty without evidence. Exact matches are welcome but not required. Place a visible note beside every instrument-specific player or link: "This performance may not use the arrangement in your book. Key, tuning, instrumentation, and difficulty may differ." Do not hide this only in an About section. An exact-arrangement label requires evidence identifying the same book edition and arranger, with a supporting source link. A matching title and instrument, or a similar-sounding performance, is insufficient. Carry this qualification into queues and exported listening lists.
 
 Prefer official artist/label uploads and performers' own channels. Save an actual media URL, title, performer/channel, version label, verification date, and any relevant source note. Never invent a video ID, infer a match from a thumbnail alone, or present a search-results URL as a selected recording. If nothing suitable is found, say so and provide a clearly labeled search link.
 
@@ -35,7 +39,7 @@ Use the format requested, or the simplest useful format the environment supports
 
 Keep each book clearly identified. If the site contains multiple books, give each one a separate catalog and notes store. Useful optional features include saved practice selections, a heard marker, and short notes; keep them secondary to listening. Explain where these are stored; local browser data does not sync automatically. Include an export/backup when persistence matters. Keep technical setup out of the musician's path unless they need it.
 
-For a shareable result, retain the underlying song/link data in a simple portable format. Keep production logs, screenshots, and testing files separate from the reader download. Publish only to a destination the user requested or approved; do not create an account or choose public hosting merely because a website was possible.
+For a shareable result, retain the underlying song/link data in a simple portable format. Use a generic instrument-performance category, an array of target instruments for each book, and actual instruments for each performance; never hard-code ukulele as the category for all books. Store arrangement-match status and any evidence link separately. Keep production logs, screenshots, and testing files separate from the reader download. Publish only to a destination the user requested or approved; do not create an account or choose public hosting merely because a website was possible.
 
 ## Check before handing it over
 
